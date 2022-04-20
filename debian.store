@@ -1,1 +1,1 @@
-{"base": "375c34e", "parent": "debian/rolling/nao_button_sim", "previous": "5e3d80a", "trim": "", "trimbase": ""}
+{"base": "3e3569f", "parent": "debian/humble/nao_button_sim", "previous": "f2a984c", "trim": "", "trimbase": ""}
