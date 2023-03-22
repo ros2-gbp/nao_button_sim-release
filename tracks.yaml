@@ -76,4 +76,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/ijnek/nao_button_sim.git
-    version: :{auto}
+    version: 0.1.1
+    version_saved: :{auto}
