@@ -1,3 +1,26 @@
+## nao_button_sim (rolling) - 1.0.0-1
+
+The packages in the `nao_button_sim` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling nao_button_sim` on `Thu, 03 Aug 2023 02:26:15 -0000`
+
+The `nao_button_sim` package was released.
+
+Version of package(s) in repository `nao_button_sim`:
+
+- upstream repository: https://github.com/ijnek/nao_button_sim.git
+- release repository: https://github.com/ros2-gbp/nao_button_sim-release.git
+- rosdistro version: `0.1.1-4`
+- old version: `0.1.1-4`
+- new version: `1.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## nao_button_sim (galactic) - 0.1.1-6
 
 The packages in the `nao_button_sim` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --rosdistro galactic --track galactic nao_button_sim --edit` on `Fri, 18 Feb 2022 03:55:38 -0000`
