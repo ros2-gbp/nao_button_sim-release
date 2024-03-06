@@ -1,0 +1,44 @@
+ros-rolling-nao-button-sim (1.0.0-2noble) noble; urgency=high
+
+  * Migrate from nao_sensor_msgs to nao_lola_sensor_msgs (#5 <https://github.com/ijnek/nao_button_sim/issues/5>)
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Thu, 03 Aug 2023 00:00:00 -0000
+
+ros-rolling-nao-button-sim (0.1.1-2noble) noble; urgency=high
+
+  * Update README.md
+  * port everything across from naosoccer_sim
+  * Contributors: Kenji Brameld, ijnek
+
+ -- ijnek <kenjibrameld@gmail.com>  Mon, 07 Feb 2022 00:00:00 -0000
+
+ros-rolling-nao-button-sim (0.1.0-2noble) noble; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 14 Aug 2021 00:00:00 -0000
+
+ros-rolling-nao-button-sim (0.0.2-2noble) noble; urgency=high
+
+  * fixed up package dependency
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Tue, 20 Jul 2021 15:11:00 -0000
+
+ros-rolling-nao-button-sim (0.0.1-2noble) noble; urgency=high
+
+  * add package description for nao_button_sim
+  * fix packages broken from moving from ros2 foxy to galactic
+  * improve nao_button_sim interface
+  * was missing a slash in xml...
+  * specify license type
+  * comply with ament tests
+  * add copyright statements
+  * add frequency parameter to nao_button_sim
+  * add nao_button_test as a apython package
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Tue, 20 Jul 2021 14:54:00 -0000
+
+
