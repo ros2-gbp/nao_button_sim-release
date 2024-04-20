@@ -2,6 +2,11 @@
 Changelog for package nao_button_sim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2024-04-20)
+------------------
+* Update ci
+* Contributors: Kenji Brameld
+
 0.1.1 (2022-02-07)
 ------------------
 * Update README.md
