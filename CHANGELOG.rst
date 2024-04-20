@@ -2,9 +2,14 @@
 Changelog for package nao_button_sim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.1.2 (2024-04-20)
+1.0.1 (2024-04-20)
 ------------------
-* Update ci
+* update iron CI to use iron branch
+* Contributors: ijnek
+
+1.0.0 (2023-08-03)
+------------------
+* Migrate from nao_sensor_msgs to nao_lola_sensor_msgs (`#5 <https://github.com/ijnek/nao_button_sim/issues/5>`_)
 * Contributors: Kenji Brameld
 
 0.1.1 (2022-02-07)
